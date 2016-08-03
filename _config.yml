@@ -1,4 +1,3 @@
-layout_spectrum: 0.7293706233613193
 typography_spectrum: 0.7050863613840193
 color:
   brandStrength: 0.7592488566879183
@@ -11,4 +10,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.7293706233613193
 name: Beran Painting
+title: Beran Painting & Staining
+description: interior & exterior applications
